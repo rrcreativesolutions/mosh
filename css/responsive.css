@@ -50,16 +50,14 @@
         display: block;
     }
     .hero-slide-content h2 {
-        color:transparent
         font-size: 36px;
     }
+  
     .welcome_area,
     .single-hero-slide {
-        color:transparent
         height: 900px;
     }
     .hero-slides .owl-next {
-        color:transparent
         right: 5px;
     }
     .hero-slides .owl-prev {
@@ -128,12 +126,10 @@
         display: block;
     }
     .hero-slide-content h2 {
-        color: transparent
         font-size: 20px;
     }
     .hero-slide-content h4 {
-        color: transparent
-        font-size: 20px;
+        font-size: 18px;
     }
     .welcome_area,
     .single-hero-slide {
